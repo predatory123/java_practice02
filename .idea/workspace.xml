@@ -1,0 +1,1054 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="748323b0-2026-40c5-857b-d1c404d85628" name="Default Changelist" comment="test commit message">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/java_projects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/failcase/study_java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/readtest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel01/HalloSchroedinger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel01/WoWTextadventure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel02/AusgabenRaetsel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel02/Caesar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel02/CharSpielereien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel02/GrossUndKlein.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel02/NarrowingWidening.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel02/RechenUebungen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel02/Typfrage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel02/VariablenNamen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel02/Wahrheit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel02/ZahlenSpielereien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel02/ZahlenSpielereienMitWrapperKlassen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel03/Aberglauben.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel03/IfElseSpielereien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel03/Liegestuetzen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel03/ParameterPruefen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel03/SchleifenSpielereien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel03/Statements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel03/SwitchSpielereien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel03/Treffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel03/kalender/Kalender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel03/krone/ASCIIKrone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel03/krone/WoWTextadventure2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel03/notenspiegel/Lehrer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel03/notenspiegel/NotenSpiegel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel03/primzahlen/PrimzahlenBerechner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel03/primzahlen/PrimzahlenBerechnerOptimiert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel04/GemeinsamerSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel04/GemeinsamesSuffix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel04/SoNicht.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel04/StringBufferStringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel04/StringSchleife.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel04/StringSpielereien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel04/StringVergleiche.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel04/WoerterRaetsel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel04/speiseplanhacker/SpeiseplanHacker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel04/stringpool/StringPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel04/stringpool/StringPool2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel04/stringpool/StringPool3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel04/vokale/VokalTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel05/Buch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel05/BuchMesse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel05/Katze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel05/SchuhgroessenBerechner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel05/fotos/FotoApparat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel05/fotos/FotoShooting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel05/fotos/Objektiv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel05/fotos2/FotoApparat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel05/fotos2/FotoShooting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel05/fotos2/Objektiv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel05/garbagecollection/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel05/heap/Katzenwahnsinn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel05/heap/TierschutzVerein.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel05/methoden/Lottozahlen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel05/methoden/Mathe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel05/methoden/tschuess/Feierabend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel05/methoden/tschuess/TschuessSager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel05/methoden/wetter/WetterVorhersage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel05/stack/Ungeheuer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel05/stackheap/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel05/stackheap/AutoFabrik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel05/stackheap/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel05/stacktrace/Katze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel05/stacktrace/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel05/stacktrace/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel05/stacktrace/Vase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel05/stacktrace/Wohnung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/abos/objektorientiert/Abo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/abos/objektorientiert/AboPreisBerechner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/abos/objektorientiert/Abonnent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/abos/objektorientiert/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/abos/objektorientiert/PremiumAbo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/abos/objektorientiert/SuperPremiumAbo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/abos/serviceorientiert/Abo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/abos/serviceorientiert/AboPreisBerechner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/abos/serviceorientiert/Abonnent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/abos/serviceorientiert/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/abos/serviceorientiert/PremiumAbo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/abos/serviceorientiert/SuperPremiumAbo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/blumen/Blume.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/blumen/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/blumen/RoteRose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/blumen/Tulpe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/casting/Downcasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/casting/Upcasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/musikgruppe/BackgroundSaengerin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/musikgruppe/Band.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/musikgruppe/Bassist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/musikgruppe/DSDKS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/musikgruppe/Gitarrist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/musikgruppe/Musiker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/musikgruppe/Proberaum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/musikgruppe/Saenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/musikgruppe/Trompeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/musikgruppe/refactoring/BackgroundSaengerin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/musikgruppe/refactoring/Band.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/musikgruppe/refactoring/Bassist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/musikgruppe/refactoring/DSDKS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/musikgruppe/refactoring/Gitarrist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/musikgruppe/refactoring/Kuenstler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/musikgruppe/refactoring/Musiker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/musikgruppe/refactoring/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/musikgruppe/refactoring/Proberaum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/musikgruppe/refactoring/Saenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/musikgruppe/refactoring/Trompeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/musikgruppe/wettbewerb/GesangsWettbewerb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/musikgruppe/wettbewerb/MusikWettbewerb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/statischemethoden/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/statischemethoden/Oberklasse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel06/statischemethoden/Unterklasse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/hund/antipattern/Hund.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/hund/antipattern/HundImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/hund/besser/Hund.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/hund/besser/KannBellen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/interfacehierarchie/IstSogarRichtigLecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/interfacehierarchie/KannManEssen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/interfacehierarchie/PizzaSalami.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/interfacehierarchie/UnterDenTopFiveDerEssensgerichte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/konstanten/KonstantenMitKlasse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/konstanten/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/konstanten/sender/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/konstanten/sender/Sender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/konstanten/sender/SenderMitInterfaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/musik/abspielgeraete/AnalogesMusikAbspielGeraet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/musik/abspielgeraete/CDPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/musik/abspielgeraete/DigitalesMusikAbspielGeraet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/musik/abspielgeraete/KassettenRekorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/musik/abspielgeraete/MP3Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/musik/abspielgeraete/MusikAbspielGeraet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/musik/abspielgeraete/Probehoeren.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/musik/abspielgeraete/SchallplattenSpieler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/musik/tontraeger/AnalogerTontraeger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/musik/tontraeger/CD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/musik/tontraeger/DigitalerTontraeger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/musik/tontraeger/EP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/musik/tontraeger/Kassette.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/musik/tontraeger/LP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/musik/tontraeger/MP3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/musik/tontraeger/Schallplatte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/musik/tontraeger/Tontraeger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/pralinen/BuchDerWeltrekorde.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/pralinen/LaengstePralineDerWelt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/pralinen/SchokoRiegel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/pralinen/SchokoladenKeksGemisch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/pralinen/SchokoladenSpiele.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/pralinen/SchokoladenSuechtiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/rollenspiele/Drache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/rollenspiele/FotoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/rollenspiele/Held.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/rollenspiele/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/rollenspiele/RiesenschneckenDrache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/rollenspiele/Rollenspiel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/rollenspiele/RollenspielCharakter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/rollenspiele/Superman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/rollenspiele/Troll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/rollenspiele/Zauberer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/verschachtelteklassen/Aussen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/verschachtelteklassen/anonym/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/verschachtelteklassen/anonym/Tresor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/verschachtelteklassen/lokal/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/verschachtelteklassen/nichtstatisch/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/verschachtelteklassen/nichtstatisch/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/verschachtelteklassen/statisch/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel07/verschachtelteklassen/statisch/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel08/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel08/arrays/ArrayIteration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel08/arrays/Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel08/collections/CollectionSpielereien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel08/lists/ListSpielereien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel08/maps/MapSpielereien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel08/queuesstacks/QueuesUndStackSpielereien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel08/schuhetester/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel08/schuhetester/MehrSchuheSindNichtErlaubtTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel08/schuhetester/SchuhPaar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel08/schuhetester/SchuhTesterMitArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel08/schuhetester/SchuhTesterMitCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel08/schuhetester/SchuhTesterMitMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel08/schuhetester/SchuhfarbenComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel08/schuhetester/SchuhgroessenComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel08/schuhetester/SolcheSchuheHastDuSchonTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel08/schuhetester/SovieleSchuheHastDuSchonTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel08/sets/SetSpielereien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel08/sets/mengenlehre/Schnittmenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel08/sets/mengenlehre/SymmetrischeDifferenz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel08/sets/schmuck/Goldschmuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel09/errors/OutOfMemory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel09/errors/StackOverflow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel09/exceptions/DateiLeser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel09/exceptions/KlassenCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel09/exceptions/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel09/exceptions/Taschenrechner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel09/party/bigboss/BigBossParty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel09/party/bigboss/Firma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel09/party/bigboss/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel09/party/bigboss/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel09/party/bigboss/NichtEingeladeneTeilnehmerException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel09/party/bigboss/NichtEingeladenerTeilnehmerException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel09/party/bigboss/NichtReichGenugException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel09/party/bigboss/Party.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel09/party/bigboss/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel09/party/bigboss2/BigBossParty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel09/party/bigboss2/BudeVollException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel09/party/bigboss2/Firma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel09/party/bigboss2/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel09/party/bigboss2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel09/party/bigboss2/NichtEingeladenerTeilnehmerException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel09/party/bigboss2/NichtReichGenugException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel09/party/bigboss2/Party.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel09/party/bigboss2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel09/party/einweihung/BossingensEinweihungsParty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel09/party/einweihung/Firma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel09/party/einweihung/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel09/party/einweihung/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel09/party/einweihung/NichtEingeladenerTeilnehmerException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel09/party/einweihung/Party.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel09/party/einweihung/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel10/kartons/AlterKarton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel10/kartons/Karton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel10/kartons/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel10/kartons/SchuhPaar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel10/kartons/interfaces/Behaelter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel10/kartons/interfaces/Karton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel10/kartons/interfaces/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel10/kartons/interfaces/SchuhKarton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel10/kopierer/Buch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel10/kopierer/CD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel10/kopierer/Kopierer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel10/kopierer/KopiererMitMethode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel10/methode/KatzeImKarton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel10/tiere/Hund.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel10/tiere/Katze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel10/tiere/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel10/tiere/Raetsel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel10/tiere/Tier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel10/tierkoerbe/Hund.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel10/tierkoerbe/HundeKorb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel10/tierkoerbe/Katze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel10/tierkoerbe/KatzenKorb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel10/tierkoerbe/Korb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel10/tierkoerbe/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel10/tierkoerbe/Tier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel11/io/dateien/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel11/io/kundendaten/KundenDatenKonvertierer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel11/io/kundendaten/KundenDatenKonvertiererIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel11/io/kundendaten/KundenDatenKonvertiererNIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel11/io/kundendaten/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel11/io/streams/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel11/pfade/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel11/serialization/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel11/serialization/Notiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel11/serialization/irgendwas/Irgendwas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel11/serialization/irgendwas/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel11/serialization/krieger/Krieger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel11/serialization/krieger/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel11/serialization/krieger/ZwergenKrieger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel11/serialization/krieger2/Krieger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel11/serialization/krieger2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel11/serialization/krieger2/ZwergenKrieger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel11/serialization/notizen/Autor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel11/serialization/notizen/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel11/serialization/notizen/Notiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/MachAuchWas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/MachWas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/synchronisierung/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/wow/deadlock/Held.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/wow/deadlock/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/wow/deadlock/Nachtelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/wow/deadlock/Zwerg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/wow/forkjoin/Feind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/wow/forkjoin/KampfAktion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/wow/forkjoin/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/wow/join/Held.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/wow/join/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/wow/join/Nachtelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/wow/join/Zwerg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/wow/livelock/Bier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/wow/livelock/Held.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/wow/livelock/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/wow/livelock/Nachtelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/wow/livelock/Zwerg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/wow/lockobjects/Held.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/wow/lockobjects/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/wow/lockobjects/Nachtelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/wow/lockobjects/Zwerg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/wow/locks/Held.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/wow/locks/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/wow/locks/Nachtelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/wow/locks/Zwerg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/wow/prioritaeten/Held.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/wow/prioritaeten/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/wow/prioritaeten/Nachtelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/wow/prioritaeten/Zwerg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/wow/sleep/Held.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/wow/sleep/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/wow/sleep/Nachtelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/wow/sleep/Zwerg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/wow/starvation/Held.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/wow/starvation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/wow/starvation/Nachtelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/wow/starvation/Toilette.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/wow/starvation/Zwerg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/wow/wait/Held.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/wow/wait/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/wow/wait/Nachtelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/wow/wait/Toilette.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/wow/wait/Zwerg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/zahlenspiele/AbstractZahlenDrucker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/zahlenspiele/GeradeZahlenDrucker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/zahlenspiele/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/zahlenspiele/UngeradeZahlenDrucker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel12/zahlenspiele/Zahlendrucker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel13/HalloSchroedinger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel13/stereoanlage/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel13/stereoanlage/StereoAnlage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/musiksammlung/Konstanten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/musiksammlung/jaxb/generiert/Alben.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/musiksammlung/jaxb/generiert/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/musiksammlung/jaxb/generiert/Kuenstler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/musiksammlung/jaxb/generiert/Musiksammlung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/musiksammlung/jaxb/generiert/ObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/musiksammlung/jaxb/generiert/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/musiksammlung/lesen/DOM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/musiksammlung/lesen/DOM1968.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/musiksammlung/lesen/DOMXPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/musiksammlung/lesen/SAX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/musiksammlung/lesen/StAX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/musiksammlung/lesen/StAXCursorStyle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/musiksammlung/schreiben/DOM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/pflanzen/GewaechsHaus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/pflanzen/JAXB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/pflanzen/Pflanze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/terminkalender/Konstanten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/terminkalender/aendern/DOM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/terminkalender/jaxb/Besitzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/terminkalender/jaxb/Termin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/terminkalender/jaxb/Termine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/terminkalender/jaxb/Terminkalender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/terminkalender/jaxb/generiert/Besitzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/terminkalender/jaxb/generiert/ObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/terminkalender/jaxb/generiert/Termin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/terminkalender/jaxb/generiert/Termine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/terminkalender/jaxb/generiert/Terminkalender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/terminkalender/jaxb/generiert/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/terminkalender/jaxb/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/terminkalender/lesen/DOM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/terminkalender/lesen/JAXB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/terminkalender/lesen/JAXBMitGeneriertenKlassen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/terminkalender/lesen/SAX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/terminkalender/lesen/StAX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/terminkalender/lesen/XMLZuJavaKonvertierer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/terminkalender/objekte/Besitzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/terminkalender/objekte/Termin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/terminkalender/objekte/Termine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/terminkalender/objekte/Terminkalender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/terminkalender/schreiben/DOM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/terminkalender/schreiben/JAXB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel14/terminkalender/schreiben/JAXBMitGeneriertenKlassen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel15/Briefmarkensammlung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel15/DatenbankVerbindung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel15/Transaktionen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel16/javafx/binding/Binding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel16/javafx/schuhe/SchuhKartonVolumenBerechnerGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel16/javafx/schuhe/SchuhKartonVolumenBerechnerGUIMitSchiebereglern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel16/javafx/schuhe/ZahlenTextFeld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel16/javafx/schuhe/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel16/swing/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel16/swing/layouts/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel16/swing/layouts/Taschenrechner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel16/swing/schuhe/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel16/swing/schuhe/SchuhKartonVolumenBerechnerGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel16/swing/schuhe/SchuhKartonVolumenBerechnerGUI2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel16/swing/schuhe/SchuhKartonVolumenBerechnerGUIMitMa脽einheiten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel16/swing/schuhe/SchuhKartonVolumenBerechnerGUIMitSchiebereglern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel17/internationalisierung/Internationalisierung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel17/internationalisierung/Musiksammlung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel17/internationalisierung/SchuhkartonBundle_de_DE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel17/internationalisierung/SchuhkartonBundle_fi_FI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel17/internationalisierung/waehrungsrechner/Waehrungsrechner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel17/internationalisierung/weinoderbier/Bier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel17/internationalisierung/weinoderbier/Getraenk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel17/internationalisierung/weinoderbier/GetraenkeBundle_de_DE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel17/internationalisierung/weinoderbier/GetraenkeBundle_fr_FR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel17/internationalisierung/weinoderbier/Wein.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel17/internationalisierung/weinoderbier/WeinOderBier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel17/lokalisierungformatierung/LaenderInDenenEnglischGesprochenWird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel17/lokalisierungformatierung/LokalisierungUndFormatierung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel17/lokalisierungformatierung/SchauplatzSpielereien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel17/lokalisierungformatierung/StringFormatierung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel17/mustererkennung/DrinOderNichtDrin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel17/mustererkennung/FindVsMatches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel17/mustererkennung/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel17/mustererkennung/emails/EmailAdresse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel17/mustererkennung/emails/EmailAdressenFabrik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel17/mustererkennung/emails/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel17/mustererkennung/telefonnummern/Telefonnummer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel17/mustererkennung/telefonnummern/TelefonnummerValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel18/cocktails/Cocktail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel18/cocktails/CocktailMixer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel18/cocktails/EkligeZutatenKombinationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel18/cocktails/StandardCocktailMixer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel18/cocktails/zutaten/Apfelsaft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel18/cocktails/zutaten/Banane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel18/cocktails/zutaten/Milch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel18/cocktails/zutaten/Sprudelwasser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/src/de/galileocomputing/schroedinger/java/kapitel18/cocktails/zutaten/Zutat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/test/de/galileocomputing/schroedinger/java/kapitel18/EinfacheTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readtest/src/main/java/SchroedingerProgrammiertJava/test/de/galileocomputing/schroedinger/java/kapitel18/cocktails/CocktailMixerTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="java_projects" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>value</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Helloworld.java" />
+        <option value="$PROJECT_DIR$/src/study_test/Pummy.java" />
+        <option value="$PROJECT_DIR$/src/study_test/Employee.java" />
+        <option value="$PROJECT_DIR$/src/study_test/Empty.java" />
+        <option value="$PROJECT_DIR$/src/study_test/InstanceCounter.java" />
+        <option value="$PROJECT_DIR$/src/study_test/NumberTest.java" />
+        <option value="$PROJECT_DIR$/src/PracticeJava/TestGrade.java" />
+        <option value="$PROJECT_DIR$/src/PracticeJava/Test01Demon.java" />
+        <option value="$PROJECT_DIR$/src/PracticeJava/Test03Demon.java" />
+        <option value="$PROJECT_DIR$/src/PracticeJava/Test02Demon.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
+        <option value="$PROJECT_DIR$/src/PracticeJava/Test0Demon.java" />
+        <option value="$PROJECT_DIR$/src/PracticeJava/Test05Demon.java" />
+        <option value="$PROJECT_DIR$/src/PracticeJava/Test06Demon.java" />
+        <option value="$PROJECT_DIR$/src/PracticeJava/Test04Demon.java" />
+        <option value="$PROJECT_DIR$/src/PracticeJava/Test07Demon.java" />
+        <option value="$PROJECT_DIR$/src/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/xuexiaoxiao/Demon01Test.java" />
+        <option value="$PROJECT_DIR$/src/xuexiaoxiao/demonstring/Demon01Test.java" />
+        <option value="$PROJECT_DIR$/src/xuexiaoxiao/demonstring/Demon02Test.java" />
+        <option value="$PROJECT_DIR$/src/xuexiaoxiao/demonstring/Demon03Test.java" />
+        <option value="$PROJECT_DIR$/src/xuexiaoxiao/demonstring/Demon04Test.java" />
+        <option value="$PROJECT_DIR$/src/xuexiaoxiao/demonstring/Demon05Test.java" />
+        <option value="$PROJECT_DIR$/src/xuexiaoxiao/demonifslese/TestCase.java" />
+        <option value="$PROJECT_DIR$/src/xuexiaoxiao/ClassAndObject/ObjectTestArgin.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectId" id="1pTcbEAf3y8f68pBkBd1SM7ljFJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java_projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_projects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_projects" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_projects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_projects" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="study_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/readtest/src/main/java" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\worksapce\java_projects\readtest\src\main\java" />
+      <recent name="D:\worksapce\java_projects\eclipsetest\src\main\java\book\xuexiaoxiao\study" />
+      <recent name="D:\worksapce\java_projects\eclipsetest\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\worksapce\java_projects\failcase" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="book.xuexiaoxiao.study.sixteen" />
+      <recent name="xuexiaoxiao.demonstring" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AusgabenRaetsel">
+    <configuration name="AusgabenRaetsel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SchroedingerProgrammiertJava.src.de.galileocomputing.schroedinger.java.kapitel02.AusgabenRaetsel" />
+      <module name="readtest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SchroedingerProgrammiertJava.src.de.galileocomputing.schroedinger.java.kapitel02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demon04Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xuexiaoxiao.demonstring.Demon04Test" />
+      <module name="java_projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xuexiaoxiao.demonstring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demon05Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xuexiaoxiao.demonstring.Demon05Test" />
+      <module name="java_projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xuexiaoxiao.demonstring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectTestArgin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xuexiaoxiao.ClassAndObject.ObjectTestArgin" />
+      <module name="java_projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xuexiaoxiao.ClassAndObject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="xuexiaoxiao.demonifslese.TestCase" />
+      <module name="java_projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="xuexiaoxiao.demonifslese.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AusgabenRaetsel" />
+        <item itemvalue="Application.ObjectTestArgin" />
+        <item itemvalue="Application.TestCase" />
+        <item itemvalue="Application.Demon05Test" />
+        <item itemvalue="Application.Demon04Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="748323b0-2026-40c5-857b-d1c404d85628" name="Default Changelist" comment="" />
+      <created>1572349956815</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572349956815</updated>
+      <workItem from="1572349959644" duration="4385000" />
+      <workItem from="1572521768724" duration="2683000" />
+      <workItem from="1574773581997" duration="592000" />
+      <workItem from="1578485554306" duration="108000" />
+      <workItem from="1578485756179" duration="1115000" />
+      <workItem from="1578572099412" duration="5442000" />
+      <workItem from="1578746726578" duration="2821000" />
+      <workItem from="1581129156899" duration="2117000" />
+      <workItem from="1581302896973" duration="3852000" />
+      <workItem from="1581329915333" duration="767000" />
+      <workItem from="1581387554089" duration="105000" />
+      <workItem from="1581409762614" duration="1878000" />
+      <workItem from="1581469343101" duration="8352000" />
+      <workItem from="1581561710625" duration="1452000" />
+      <workItem from="1582336297845" duration="1956000" />
+      <workItem from="1584097668223" duration="686000" />
+      <workItem from="1585051867459" duration="53000" />
+      <workItem from="1585305494994" duration="6963000" />
+      <workItem from="1585568684812" duration="3292000" />
+      <workItem from="1595645084886" duration="52000" />
+      <workItem from="1595646153384" duration="850000" />
+      <workItem from="1595658042341" duration="302000" />
+      <workItem from="1595658368169" duration="1050000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="50873000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.1930295" />
+      <window_info id="Structure" order="1" sideWeight="0.5021097" side_tool="true" weight="0.17426273" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5021097" side_tool="true" weight="0.17426273" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32956153" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3297587" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.3297587" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.20911528" />
+      <window_info id="Structure" order="1" sideWeight="0.5021097" side_tool="true" weight="0.17426273" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5021097" side_tool="true" weight="0.17426273" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32956153" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32956153" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test commit message" />
+    <option name="LAST_COMMIT_MESSAGE" value="test commit message" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/study_test/NumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/study_test/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+          <folding>
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/study_test/Pummy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java_projects.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/java_projects/PracticeJava/Test05Demon.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/java_projects/PracticeJava/Test04Demon.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/java_projects/PracticeJava/Test03Demon.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/java_projects/PracticeJava/Test02Demon.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/java_projects/PracticeJava/Test01Demon.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice_java.test/src/practice_java/test/Test01Demon.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice_java.test/src/practice_java/test/Test02Demon.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PracticeJava/Test06Demon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-545">
+          <caret line="9" column="54" lean-forward="true" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PracticeJava/Test05Demon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PracticeJava/Test04Demon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PracticeJava/Test03Demon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PracticeJava/Test02Demon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/xuexiaoxiao/demonstring/Demon03Test.kt" />
+    <entry file="file://$PROJECT_DIR$/src/PracticeJava/Test07Demon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PracticeJava/Test01Demon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HelloWorld.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#68#69#0" expanded="true" />
+            <element signature="e#117#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/xuexiaoxiao/demonstring/Demon01Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/xuexiaoxiao/demonstring/Demon02Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="14" column="69" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/xuexiaoxiao/demonstring/Demon03Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/xuexiaoxiao/demonstring/Demon04Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/xuexiaoxiao/demonstring/Demon05Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/xuexiaoxiao/demonifslese/TestCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/study_test/Empty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XueXiaoXiaoStudyJava/.classpath">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/xuexiaoxiao/ClassAndObject/ObjectTestArgin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/study_test/InstanceCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
