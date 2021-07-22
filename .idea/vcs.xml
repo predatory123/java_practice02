@@ -2,11 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/booktest" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/eclipsetest" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/failcase" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/failcase/study_java" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/java_read_test" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/study_java" vcs="Git" />
   </component>
 </project>
