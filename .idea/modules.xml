@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/eclipsetest/eclipsetest.iml" filepath="$PROJECT_DIR$/eclipsetest/eclipsetest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java_projects.iml" filepath="$PROJECT_DIR$/.idea/java_projects.iml" />
       <module fileurl="file://$PROJECT_DIR$/readtest/readtest.iml" filepath="$PROJECT_DIR$/readtest/readtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/schroeding_programmiert_java/schroeding_programmiert_java.iml" filepath="$PROJECT_DIR$/schroeding_programmiert_java/schroeding_programmiert_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springtest/springtest.iml" filepath="$PROJECT_DIR$/springtest/springtest.iml" />
     </modules>
   </component>
 </project>

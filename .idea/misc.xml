@@ -5,6 +5,8 @@
       <list>
         <option value="$PROJECT_DIR$/readtest/pom.xml" />
         <option value="$PROJECT_DIR$/eclipsetest/pom.xml" />
+        <option value="$PROJECT_DIR$/springtest/pom.xml" />
+        <option value="$PROJECT_DIR$/schroeding_programmiert_java/pom.xml" />
       </list>
     </option>
   </component>
