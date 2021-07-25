@@ -1,0 +1,25 @@
+j = 21
+k = 77
+j + K = 98
+j - K = -56
+j * K = 1617
+j / K = 0
+j % K = 21
+j %= K = 21
+v = 0.7373912
+w = 0.6824797
+v + w = 1.4198709
+v - w = 0.054911494
+v * w = 0.5032545
+v / w = 1.0804588
+u += v = 1.8178499
+u -= v = 1.0804586
+u *= v = 0.7967207
+u /= v = 1.0804586
+Exception in thread "main" com.bruceeckel.simpletest.LineMismatchException: line 3 of output did not match expected output
+expected: <j \ + k = -? \d+>
+output:   <j + K = 98>
+	at com.bruceeckel.simpletest.OutputVerifier.verify(OutputVerifier.java:27)
+	at com.bruceeckel.simpletest.Test.expect(Test.java:80)
+	at com.bruceeckel.simpletest.Test.expect(Test.java:85)
+	at thinking.in.java.chapter03.MathOps.main(MathOps.java:66)
