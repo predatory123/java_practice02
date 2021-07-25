@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="291c86f0-bdc7-4796-bf04-45750aabc1d8" name="Default Changelist" comment="create: 文件目录更新">
+      <change beforePath="$PROJECT_DIR$/thinking.in.java.chapter03.AssignmentOutput.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thinking.in.java.chapter03.AutoIncOutput.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thinking.in.java.chapter03.EqualsMethod2Output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thinking.in.java.chapter03.EqualsMethodOutput.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thinking.in.java.chapter03.EquivalenceOutput.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thinking.in.java.chapter03.MathOpsOutput.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thinking.in.java.chapter03.PassObjectOutput.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
