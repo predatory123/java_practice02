@@ -12,3 +12,4 @@ public class DefaultConstructor {
         Brid nc = new Brid();
     }
 }
+
